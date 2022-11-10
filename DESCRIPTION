@@ -1,8 +1,8 @@
 Package: HaarSeg
-Version: 0.0.3-9003
+Version: 0.0.3-9004
 Title: Fast and Flexible Microarray Segmentation
-Author: Erez Ben-Yaacov and Yonina C. Eldar (R package wrapper by Henrik Bengtsson)
-Maintainer: Erez Ben-Yaacov <erez.ben.yaacov@gmail.com>
+Author: Erez Ben-Yaacov, Yonina C. Eldar, and Henrik Bengtsson (R package)
+Maintainer: Henrik Bengtsson <henrikb@braju.com>
 Description: A fast and flexible method for the segmentation of aCGH data using the HaarSeg method by Ben-Yaacov and Eldar (2008) <doi:10.1093/bioinformatics/btn272>.
 URL: https://github.com/HenrikBengtsson/HaarSeg
 BugReports: https://github.com/HenrikBengtsson/HaarSeg/issues

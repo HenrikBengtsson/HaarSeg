@@ -26,11 +26,6 @@
   \code{\link{haarSeg}}()
 }
 
-\section{How to cite this package}{
- \preformatted{
- 
- }
-}
 \references{
   [1] Ben-Yaacov E. and Eldar YC. \emph{A fast and flexible method for the segmentation of aCGH data}, Bioinformatics, 2008.
   \url{https://www.ee.technion.ac.il/Sites/People/YoninaEldar/Info/software/HaarSeg.htm}
