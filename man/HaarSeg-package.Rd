@@ -15,12 +15,7 @@
 
 
 \description{
-  This package provides the HaarSeg method..
-}
-
-\section{Installation}{
-  To install this package, please do follow the instructions at
-  \url{http://www.braju.com/R/}.
+  A fast and flexible method for the segmentation of aCGH data using the HaarSeg method by Ben-Yaacov and Eldar (2008) <doi:10.1093/bioinformatics/btn272>..
 }
 
 \section{Dependancies and other requirements}{
@@ -33,12 +28,12 @@
 
 \section{How to cite this package}{
  \preformatted{
-  Erez Ben-Yaacov and Yonina C. Eldar (R package wrapper by Henrik Bengtsson <henrikb@braju.com>) (2009). HaarSeg: HaarSeg. R package version 0.0.2. http://www.ee.technion.ac.il/Sites/People/YoninaEldar/Info/software/HaarSeg.htm
+ 
  }
 }
 \references{
   [1] Ben-Yaacov E. and Eldar YC. \emph{A fast and flexible method for the segmentation of aCGH data}, Bioinformatics, 2008.
-  \url{http://www.ee.technion.ac.il/Sites/People/YoninaEldar/Info/software/HaarSeg.htm}
+  \url{https://www.ee.technion.ac.il/Sites/People/YoninaEldar/Info/software/HaarSeg.htm}
 }
 
 \author{Erez Ben-Yaacov.  R package created by Henrik Bengtsson.}
