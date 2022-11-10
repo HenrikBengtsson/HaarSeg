@@ -28,4 +28,4 @@
 # Version 0.0.1 [2008-12-17]
 
  *  Created from script and source code available online
-    at <http://www.ee.technion.ac.il/Sites/People/YoninaEldar/>.
+    at `http://www.ee.technion.ac.il/Sites/People/YoninaEldar/`.
