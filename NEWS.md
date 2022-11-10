@@ -6,6 +6,8 @@
  
  * Properly registering C functions.
  
+ * One of the internal C functions was only implicitly declared.
+ 
 
 # Version 0.0.3 [2011-11-19]
 
