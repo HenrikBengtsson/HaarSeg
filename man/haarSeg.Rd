@@ -25,7 +25,10 @@
    which are more sensitive to noise.
 }
 
-\usage{haarSeg(I, W=vector(), rawI=vector(), chromPos=matrix(c(1, length(I)), nrow = 1, ncol = 2), breaksFdrQ=0.001, haarStartLevel=1, haarEndLevel=5)}
+\usage{
+haarSeg(I, W=vector(), rawI=vector(), chromPos=matrix(c(1, length(I)),
+  nrow = 1, ncol = 2), breaksFdrQ=0.001, haarStartLevel=1, haarEndLevel=5)
+}
 
 \arguments{
  \item{I}{a single array of log(R/G) measurements, sorted according to
