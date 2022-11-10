@@ -2,4 +2,6 @@
 # in their names.
 exportPattern("^[^\\.]")
 
+importFrom("stats", "median", "pnorm")
+
 useDynLib("HaarSeg", .registration = TRUE, .fixes = "C_")

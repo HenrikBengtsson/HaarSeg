@@ -1,3 +1,10 @@
+# Version (development version)
+
+## Software Quality
+
+ * Importing `median()` and `pnorm()` from the **stats** package.
+ 
+
 # Version 0.0.3 [2011-11-19]
 
 ## Bug Fixes
