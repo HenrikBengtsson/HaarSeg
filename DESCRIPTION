@@ -1,5 +1,5 @@
 Package: HaarSeg
-Version: 0.0.3-9002
+Version: 0.0.3-9003
 Title: Fast and Flexible Microarray Segmentation
 Author: Erez Ben-Yaacov and Yonina C. Eldar (R package wrapper by Henrik Bengtsson)
 Maintainer: Erez Ben-Yaacov <erez.ben.yaacov@gmail.com>

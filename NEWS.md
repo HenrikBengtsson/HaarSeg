@@ -4,6 +4,8 @@
 
  * Importing `median()` and `pnorm()` from the **stats** package.
  
+ * Properly registering C functions.
+ 
 
 # Version 0.0.3 [2011-11-19]
 
