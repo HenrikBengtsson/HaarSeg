@@ -1,4 +1,4 @@
-# Version (development version)
+# Version 0.0.4 [2022-11-09]
 
 ## Software Quality
 
